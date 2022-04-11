@@ -1,0 +1,8 @@
+.camera {
+    float: left;
+    /* 해당 요소를 왼쪽으로 배치라여 글자를 정렬
+       float:right일 경우 이미지 요소가 오른쪽으로 정렬
+       float:none은 정렬하지 않음
+    */
+
+}

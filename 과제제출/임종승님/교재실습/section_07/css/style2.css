@@ -1,0 +1,15 @@
+div {
+    width: 300px;          /* 넓이 */
+    height: 300px;         /* 높이 */ 
+    border: 2px solid black; /* 테두리 스타일 */
+}
+
+.box1 {
+    float: left;
+}
+.box2 {
+    float: left;
+}
+.box3 {
+    float: left;
+}
