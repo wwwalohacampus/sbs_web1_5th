@@ -24,7 +24,7 @@
 
 /* 전체 폰트 지정 */
 body { font-family: 'Noto Sans KR', sans-serif; }
-.pf { font-family: "NanumSquare_acB";  }
+.pf { font-family: "NanumSquare_acB"; font-weight: bold !important; }
 
 /* 헤더 영역 */
 header {
